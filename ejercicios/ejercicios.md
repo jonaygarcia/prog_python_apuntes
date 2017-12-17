@@ -2,7 +2,7 @@
 
 __Ejercicio 1__
 
-Instalar el intérprete de Python (ver [Anexo II](../anexos/anexo_i.md)).
+Instalar el intérprete de Python (ver [Anexo I](../anexos/anexo_i.md)).
 
 __EJercicio 2__
 
